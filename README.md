@@ -12,18 +12,28 @@ Ademas de los programas tambien contiene los resultados de los 3 nodos de comput
 Nodos:
 
 Nodo Cómputo A:
+
 Procesador: AMD Ryzen 5 3400G.
+
 Ram: 8GB.
+
 Almacenamiento: Disco Duro.
 
+
 Nodo Cómputo B:
+
 Procesador: AMD Ryzen 7 3700U.
+
 Ram: 8GB.
+
 Almacenamiento: SSD.
 
 Nodo Cómputo C:
+
 Procesador: 
+
 Ram:
+
 Almacenamiento:
 
 
