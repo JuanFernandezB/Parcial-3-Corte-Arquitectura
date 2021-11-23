@@ -25,14 +25,14 @@ Procesador: AMD Ryzen 7 3700U.
 
 Ram: 8GB.
 
-Almacenamiento: SSD.
+Almacenamiento: Unidad de Estado sólido.
 
 # Nodo Cómputo C:
 
-Procesador: 
+Procesador: Intel(R) Core(TM) i3-6100U.
 
-Ram:
+Ram: 8GB.
 
-Almacenamiento:
+Almacenamiento: Unidad de Estado sólido.
 
 
